@@ -1,1 +1,1 @@
-# Navigating-in-Gridworld-using-model-free-and-model-based-learning
+# Combining Monte Carlo and Value Iteration for Solving Grid World
